@@ -1,0 +1,19 @@
+ul, li, li a, ul a, h4{
+    list-style-type: none;
+    color: white;
+    text-decoration: none;
+}
+.ulStart li{
+    margin: 0;
+}
+.ulStart li ul{
+    margin-top: 0%;
+}
+.liLink{
+
+    padding: 1% 0% 1% 1%;
+    display: inline-block;
+}
+header{
+    background-color: rebeccapurple;
+}
